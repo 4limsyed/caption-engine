@@ -1,6 +1,6 @@
 # caption_engine
 
-a cross-platform app which makes finding captions for your photos more seam-less than ever before.
+a cross-platform app which makes finding captions for your photos more seam-less than ever before. An average social media consumer has a lot of captured memories laying around at all times but their social yield in terms of content creation is extremely low. This can be fixed by the use of our application which encourages people to post more while suggestion creative captions and ultimately helping people to make sense out of their posts.  
 
 ## Getting Started
 
